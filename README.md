@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jirache321
+- 👋 Hi, I’m @Jirachi321
 - 👀 I’m interested in Computer Programming and Security Issues.
 - 🌱 I’m currently learning Computer Science Master Degree.
 - 💞️ I’m looking to collaborate on the improved performance of Internet Working.
